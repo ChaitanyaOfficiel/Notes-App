@@ -1,0 +1,33 @@
+.addImg{
+  width: 50px;
+  float: right;
+  margin-right: 13%
+}
+.container{
+  margin:1%;
+}
+.card{
+  margin: 1%;
+}
+.flex{
+  display: flex;
+  gap: 14px;
+  flex-direction: row;
+  padding:1%;
+  justify-content: center;
+}
+.link{
+  text-decoration: none;
+  text-transform: capitalize;
+  font-size: 16px;
+  color: rgb(78, 81, 233);
+}
+.form{
+  width: 80%;
+ top:50%;
+ left:50%;
+ transform: translate(20%,30%);
+}
+.update{
+  margin-left: 2%;
+}
