@@ -20,7 +20,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd main
+  cd Notes-APP
 ```
 
 
